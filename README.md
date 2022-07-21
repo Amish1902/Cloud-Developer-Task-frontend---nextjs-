@@ -1,7 +1,3 @@
-deployed a nextjs frontend
-And a flask backend in heroku
+Deploying a nextjs frontend
 
-The folder structure
-__(root folder)____
-|__ frontend (nextjs)
-|__ backend( flask)
+
